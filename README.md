@@ -76,5 +76,5 @@ Projeto desenvolvido como trabalho universitário com foco em:
 
 ---
 
-📌 Projeto com finalidade educacional, simulando um sistema acadêmico real com persistência em SQL Server.
+📌 Projeto com finalidade educacional, simulando um sistema acadêmico real.
 
